@@ -33,7 +33,7 @@ export default css`
 
   .sun-card-title {
     font-size: 1.5rem;
-    font-weight: 500;
+    /* font-weight: 500; */
     padding-bottom: 2rem;
     margin: 0;
   }
